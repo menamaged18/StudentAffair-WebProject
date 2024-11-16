@@ -1,2 +1,2 @@
 # MyWorkOnStudentAffair
-this is what i have in done in strudent affair project with my colleagues
+i have made the front-end part using HTML, CSS, javaScript only and used Django framework for the back-end.
